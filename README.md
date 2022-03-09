@@ -5,5 +5,5 @@
 - 👯 I'm looking to collaborate on building dApp, creating an innovative startup.
 - 💬 Ask me about JavaScript, Computer Networks, Blockchain, Investing.
 - 📫 How to reach me: idanbar93@gmail.com
-- ⚡ Fun fact: I traveled in Australia for 5 monthsץ
+- ⚡ Fun fact: I traveled in Australia for 5 months.
 
