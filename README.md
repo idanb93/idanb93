@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Idan a Full-Stack Developer.
 
-<img alt="Laptop" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> I’m currently studying in an intensive bootcamp of web development.
+<img alt="Laptop" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  I recently completed an intensive web development boot-camp and I have a B.Sc degree in Computer Science.
 <br>
-<img alt="Earth" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png"> I’m currently learning HTML5, CSS-Grid, CSS-Flexbox,  Bootstrap, JavaScript, Node.js, Express.js, PostgreSQL, React.js, Redux.js
+<img alt="Earth" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png"> I’m currently learning TypeScript, React, Redux, MobX, GraphQL, Docker and K8s
 <br>
-<img alt="Global" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> I'm looking to join a startup as a full-stack developer.
+<img alt="Global" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> I'm looking to join a startup as a Full-Stack Developer.
 <br>
-💬 Ask me about JavaScript, Computer Networks, Blockchain, Investing.
+💬 Ask me about JavaScript, React, State Management Solutions, Databases.
 <br>
 📫 How to reach me: idanbar93@gmail.com
 <br>
