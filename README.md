@@ -4,7 +4,7 @@
 <br>
 <img alt="Earth" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png"> I’m currently learning TypeScript, React, Redux, MobX, GraphQL, Docker and K8s
 <br>
-<img alt="Global" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> I'm looking to join a startup as a Full-Stack Developer.
+<img alt="Global" width="20px" src="https://user-images.githubusercontent.com/35878173/189815103-cd9c66a6-f6e8-427d-b0a8-050797305044.png"> I'm looking to join a startup as a Full-Stack Developer.
 <br>
 <img alt="Global" width="20px" src="https://user-images.githubusercontent.com/35878173/189814090-53b14916-395f-4506-8990-a5ec7828fb7e.png"> Ask me about JavaScript, React, State Management Solutions, Databases.
 <br>
