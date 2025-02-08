@@ -1,4 +1,4 @@
-#### Backend Engineer with 2+ years of experience in TypeScript, and Node.js, specializing in AWS serverless architecture.
+#### Full-Stack Engineer with 3+ years of experience in TypeScript, and Node.js, specializing in AWS serverless architecture.
 
 <img alt="Laptop" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  I'm skilled in building scalable applications with seamless user experiences.
 <br>
