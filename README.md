@@ -1,8 +1,8 @@
-#### Full-Stack Engineer with 4+ years of experience in TypeScript, and Node.js, specializing in AWS serverless architecture.
+#### Backend Engineer with 4+ years of experience in TypeScript, and Node.js, specializing in AWS serverless architecture.
 
 <img alt="Laptop" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  I'm skilled in building scalable applications with seamless user experiences.
 <br>
-<img alt="Earth" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png"> I’m currently learning Advanced NodeJS, Docker and K8s.
+<img alt="Earth" width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png"> I’m currently learning Message Brokers, Kubernetes, ACID principles and CAP Theorem.
 <br>
 <img alt="Global" width="20px" src="https://user-images.githubusercontent.com/35878173/189815103-cd9c66a6-f6e8-427d-b0a8-050797305044.png"> I'm passionate about driving innovation in dynamic teams.
 <br>
